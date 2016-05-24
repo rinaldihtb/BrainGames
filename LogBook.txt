@@ -18,8 +18,8 @@
  +	Nim	:	12 111 3479
  +
  +Anggota 4 :
- +	Nama	:
- +	Nim	:
+ +	Nama	:	Jeffry (Username : jeffrylim)
+ +	Nim	:	14 111 0027
  +
  +
  
