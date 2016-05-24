@@ -24,9 +24,32 @@
  +
  
  +==============================================================================
+Tanggal : 24 Mei 2016
+
  +Poin - Poin yang Dikerjakan
  +1. Install Git
  +2. Install Bespoke
  +3. Install Node.js
  +4. Install Gulp.Js
  +5. Push ke Repo Global
+
+Tanggal : 25 Mei 2017
+
+ +Poin - Poin yang dikerjakan
+ + Muhammad Rinaldi H
+ + - Install Add_on Bespoke
+ + - PULL/PUSH data Konfigurasi Package.json
+ + - PuLL/PUSH LogBook.txt
+ 
+ + Ivan Fernando
+ + - Desain Halaman awal Slide
+ + - Selesaikan Clone/Pull Repo Global
+ + - PuLL/PUSH LogBook.txt
+ 
+ + Jeffry Lim
+ + - Selesaikan Clone/Pull Repo Global
+ + - PuLL/PUSH LogBook.txt
+
+ + Ilhamdi
+ + - Selesaikan Clone/Pull Repo Global
+ + - PuLL/PUSH LogBook.txt
