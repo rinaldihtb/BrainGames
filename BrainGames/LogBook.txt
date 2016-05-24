@@ -1,0 +1,25 @@
+==============================================================================
+Nama Kelompok 	:	
+
+Judul Topik	:
+Alamat Github	: https://github.com/rinaldihtb/BrainGames.git
+Alamat Trello 	: 
+
+Anggota 1 :
+	Nama 	:	Ivan Fernando	(username : ivanfernando6)
+	Nim	:	14 111 0418
+
+Anggota 2 :
+
+
+
+
+
+
+==============================================================================
+Poin - Poin yang Dikerjakan
+1. Install Git
+2. Install Bespoke
+3. Install Node.js
+4. Install Gulp.Js
+5. Push ke Repo Global
