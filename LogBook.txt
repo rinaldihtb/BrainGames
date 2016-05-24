@@ -13,16 +13,16 @@
  +	Nama	:	Muhammad Rinaldi H (Username : rinaldihtb)
  +	Nim	:	14 111 0451
  +
- +Anggota 3 :
- +	Nama	:
- +	Nim
+ +Anggota 3 : 
+ +	Nama	: 	Ilhamdi
+ +	Nim	:	12 111 3479
  +
  +Anggota 4 :
  +	Nama	:
  +	Nim	:
  +
  +
- +
+ 
  +==============================================================================
  +Poin - Poin yang Dikerjakan
  +1. Install Git
