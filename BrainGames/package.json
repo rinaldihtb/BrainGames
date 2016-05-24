@@ -1,7 +1,12 @@
 {
   "name": "presentation-braingames",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "private" : true,
   "dependencies": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/rinaldihtb/BrainGames.git"
+  },
   "devDependencies": {
     "bespoke": "^1.0.0",
     "bespoke-backdrop": "^1.0.0",

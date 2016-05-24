@@ -4,3 +4,9 @@ Poin - Poin yang Dikerjakan
 3. Install Node.js
 4. Install Gulp.Js
 5. Push ke Repo Global
+
+=====================================
+
+Tanggal : 24 Mei 2016
+
+Nim : 141110451 - Muhammad Rinaldi Hutabarat
