@@ -24,7 +24,7 @@
  +
  
  +==============================================================================
-Tanggal : 24 Mei 2016
+Tanggal : 23 Mei 2016
 
  +Poin - Poin yang Dikerjakan
  +1. Install Git
@@ -33,23 +33,34 @@ Tanggal : 24 Mei 2016
  +4. Install Gulp.Js
  +5. Push ke Repo Global
 
-Tanggal : 25 Mei 2017
+Tanggal : 24 Mei 2016
 
  +Poin - Poin yang dikerjakan
  + Muhammad Rinaldi H
- + - Install Add_on Bespoke
- + - PULL/PUSH data Konfigurasi Package.json
- + - PuLL/PUSH LogBook.txt
+	- Install Add_on Bespoke
+	- PULL/PUSH data Konfigurasi Package.json
+	- PuLL dan PUSH LogBook.txt
  
  + Ivan Fernando
- + - Desain Halaman awal Slide
- + - Selesaikan Clone/Pull Repo Global
- + - PuLL/PUSH LogBook.txt
+	- Merancang Desain Halaman awal Slide
+	- Selesaikan Clone/Pull Repo Global
+	- PuLL dan PUSH LogBook.txt
  
  + Jeffry Lim
- + - Selesaikan Clone/Pull Repo Global
- + - PuLL/PUSH LogBook.txt
+	- Selesaikan Clone/Pull Repo Global
+	- PuLL dan PUSH LogBook.txt
 
  + Ilhamdi
- + - Selesaikan Clone/Pull Repo Global
- + - PuLL/PUSH LogBook.txt
+	- Selesaikan Clone/Pull Repo Global
+	- PuLL dan PUSH LogBook.txt
+
+Tanggal : 25 Mei 2016
+
++Poin-poin yang dikerjakan
+ + Ivan Fernando
+	- Melanjutkan Design Halaman awal Slide (index.jade)
+	- Pull dan Push LogBook.txt
+	- Upload css bootstrap
+	- Upload Fonts
+	- Upload img
+	- upload javascript (js)
