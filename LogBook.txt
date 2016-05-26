@@ -80,3 +80,17 @@ Tanggal : 25 Mei 2016
  + - cari Refrensi Bespoke.JS, tentang slide, keyboard, dll
  + - PULL/PUSH data revisi Bespoke yang baru(menggunakan Grunt server)
  + - PuLL/PUSH LogBook.txt
+
+Tanggal : 26 Mei 2016
+
+ + Jeffry Lim
+ + - pull bespoke revisi
+ + - Mengedit file Package.json yang error ketika grunt server dirunning
+ + - push file package.json
+ + - sprint slide #1
+ + - PuLL/PUSH LogBook.txt
+
+ + Muhammad Rinaldi H
+ + - Pull/Push data src yang salah PULL.
+ + - sprint slide #2
+ + - PuLL/PUSH LogBook.txt
