@@ -66,31 +66,40 @@ Tanggal : 25 Mei 2016
 	- upload javascript (js)
 
  + Jeffry Lim
- + - cari refrensi soal quis yang akan ditampilkan dan diupload ke trello
- + - Kuis(Ketelitian, Ingatan, Kecepatan mata)
- + - PuLL/PUSH LogBook.txt
+	- cari refrensi soal quis yang akan ditampilkan dan diupload ke trello
+	- Kuis(Ketelitian, Ingatan, Kecepatan mata)
+	- PuLL/PUSH LogBook.txt
 
  + Ilhamdi
- + - cari refrensi soal quis yang akan ditampilkan.
- + - Kuis(Ketelitian, Ingatan, Kecepatan mata)
- + - Install Gulp.js yang seringkali bermasalah ketika akan PUSH.
- + - PuLL/PUSH LogBook.txt
+	- cari refrensi soal quis yang akan ditampilkan.
+	- Kuis(Ketelitian, Ingatan, Kecepatan mata)
+	- Install Gulp.js yang seringkali bermasalah ketika akan PUSH.
+	- PuLL/PUSH LogBook.txt
 
  + Muhammad Rinaldi H
- + - cari Refrensi Bespoke.JS, tentang slide, keyboard, dll
- + - PULL/PUSH data revisi Bespoke yang baru(menggunakan Grunt server)
- + - PuLL/PUSH LogBook.txt
+	- cari Refrensi Bespoke.JS, tentang slide, keyboard, dll
+	- PULL/PUSH data revisi Bespoke yang baru(menggunakan Grunt server)
+	- PuLL/PUSH LogBook.txt
 
 Tanggal : 26 Mei 2016
 
  + Jeffry Lim
- + - pull bespoke revisi
- + - Mengedit file Package.json yang error ketika grunt server dirunning
- + - push file package.json
- + - sprint slide #1
- + - PuLL/PUSH LogBook.txt
+	- pull bespoke revisi
+	- Mengedit file Package.json yang error ketika grunt server dirunning
+	- push file package.json
+	- sprint slide #1
+	- PuLL/PUSH LogBook.txt
 
  + Muhammad Rinaldi H
- + - Pull/Push data src yang salah PULL.
- + - sprint slide #2
- + - PuLL/PUSH LogBook.txt
+	- Pull/Push data src yang salah PULL.
+	- sprint slide #2
+	- PuLL/PUSH LogBook.txt
+ + Ivan Fernando
+	- Pull data index.jade
+	- Menunggu email para anggota untuk mengumpulkan foto
+
+Tanggal : 27 Mei 2016
+ + Ivan Fernando
+	- Pull dan Push index.jade
+	- Penambahan code pada index.jade
+	- Pull dan Push LogBook.txt

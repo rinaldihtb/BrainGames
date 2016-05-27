@@ -4,56 +4,22 @@ html
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
     title TEMPLATE PRESENTASI BESPOKE
-
     // build:css styles/styles.css
-    //- Check out 'src/bower_components/prism/themes/' for available themes
     link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
     link(rel='stylesheet', type='text/css', href='styles/main.css')
     // endbuild
-
+    link(rel='stylesheet', href='css/bootstrap.min.css')
+    script(src='js/bootstrap.min.js')
+    script(src='js/jquery.min.js')
+    style(type='text/css').
+      body{
+      text-align:center;
+      background-color:lightgrey;
+      }
+      .langkah{
+      margin-top:50px;
+      }
   body
-
-    article
-
-      section
-         ul
-            li Contoh LIST
-
-      section
-        h1 #SUBJECT
-
-      section
-        
-        p Contoh Paragraf
- 
-      section
-        h3 <strong>#CONTOH 1</strong>
-      
-      section
-        p Contoh Paragraf
- 
-      section
-         h3 #H3
-         ul
-            li Contoh LIST
-      
-      section
-         h3 #H3
-         ul
-            li Contoh LIST
-            
-      section(data-bespoke-hash='named-route')
-        h2 TKPPL
-        ul
-            li Contoh LIST
-            
-            
-      section(data-bespoke-state='emphatic')
-        h2 #H2
-        ul
-            li Contoh LIST
-
-     
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
     script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
@@ -67,3 +33,41 @@ html
     script(src='bower_components/prism/prism.js')
     script(src='scripts/main.js')
     // endbuild
+    // mulai coding utk homepage
+    // Disini dimulai Coding
+    script(src='js/jquery.js')
+    script(src='js/bootstrap.min.js')
+    .container
+      .langkah
+        .row
+          h1 Selamat datang di BrainGames
+      .langkah
+        .row
+          h2 Anggota
+      .langkah
+        .row
+          .col-sm-12
+            .col-sm-3
+              .row
+                img(src='img/141110418.jpg', width='110', height='150', border='0', alt='14 111 0418')
+                p
+              .row
+                | Ivan Fernando ( 14 111 0418 )
+            .col-sm-3
+              .row
+                img(src='img/141110451.jpg', width='110', height='150', border='0', alt='14 111 0451')
+                p
+              .row
+                | M.Rinaldi Hutabarat ( 14 111 0451 )
+            .col-sm-3
+              .row
+                img(src='', width='110', height='150', border='0', alt='14 111 0027')
+                p
+              .row
+                | Jeffry ( 14 111 0027 )
+            .col-sm-3
+              .row
+                img(src='', width='110', height='150', border='0', alt='12 111 3479')
+                p
+              .row
+                | Ilhamdi ( 12 111 3479 )
