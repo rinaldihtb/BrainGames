@@ -122,6 +122,11 @@ Tanggal : 28 Mei 2016
  + Ivan Fernando
 	- Pull dan Push LogBook.txt
 	- Merapikan LogBook.txt
+	==>
+		- Upload forlder js
+		- Upload folder CSS Bootstrap
+		- Upload folder img
+		- Penambahan pada LogBook.txt
 
 +==============================================================================
 
