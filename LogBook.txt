@@ -94,3 +94,7 @@ Tanggal : 26 Mei 2016
  + - Pull/Push data src yang salah PULL.
  + - sprint slide #2
  + - PuLL/PUSH LogBook.txt
+ 
+ + Ilhamdi
+ + - Pull bespoke revisi
+ + - Pull/Push LogBook.txt
