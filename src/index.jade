@@ -1,81 +1,85 @@
 doctype html
 html
-  head
-    meta(charset='utf-8')
-    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title TEMPLATE PRESENTASI BESPOKE
-    // build:css styles/styles.css
-    link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
-    link(rel='stylesheet', type='text/css', href='styles/main.css')
-    // endbuild
-    link(rel='stylesheet', href='css/bootstrap.min.css')
-    script(src='js/bootstrap.min.js')
-    script(src='js/jquery.min.js')
-    style(type='text/css').
-      body{margin:0 auto;
-      text-align:center;
-      background-color:lightgrey;
-      }
-      .side{float:right;}
-      .side a:hover {background:url(images/121113479.jpg) no-repeat 0 0; width:110px;}
-      .row{margin:0 auto;}
-      .langkah{
-      margin-top:0px;
-      }
-  body
-    // build:js scripts/scripts.js
-    script(src='bower_components/bespoke.js/dist/bespoke.min.js')
-    script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
-    script(src='bower_components/bespoke-touch/dist/bespoke-touch.min.js')
-    script(src='bower_components/bespoke-bullets/dist/bespoke-bullets.min.js')
-    script(src='bower_components/bespoke-scale/dist/bespoke-scale.min.js')
-    script(src='bower_components/bespoke-hash/dist/bespoke-hash.min.js')
-    script(src='bower_components/bespoke-progress/dist/bespoke-progress.min.js')
-    script(src='bower_components/bespoke-state/dist/bespoke-state.min.js')
-    script(src='bower_components/bespoke-forms/dist/bespoke-forms.min.js')
-    script(src='bower_components/prism/prism.js')
-    script(src='scripts/main.js')
-    // endbuild
-    // mulai coding utk homepage
-    // Disini dimulai Coding
-    script(src='js/jquery.js')
-    script(src='js/bootstrap.min.js')
-    .container
-      .langkah
-        .row
-          h1 Selamat datang di BrainGames
-      .langkah
-        .row
-          h2 Anggota
-      .langkah
-        .row
-          .col-sm-12(style='width:100%  ;margin:0 auto;')
-            .col-sm-3(style='width:50%;float:left')
-              .row
-                img(src='', width='110', height='150', border='0', alt='14 111 0418')
-                p
-              .row
-                | Ivan Fernando ( 14 111 0418 )
-            .col-sm-3
-              .row
-                img(src='', width='110', height='150', border='0', alt='14 111 0451')
-                p
-              .row
-                | M.Rinaldi Hutabarat ( 14 111 0451 )
-                
-            .col-sm-3(style='width:50%;float:left')
-              .row
-                img(src='', width='110', height='150', border='0', alt='14 111 0027')
-                p
-              .row
-                | Jeffry ( 14 111 0027 )
-            .col-sm-3
-              .row
-                img(src='images/121113479.jpg', width='110', height='150', border='0', alt='12 111 3479')
-                p
-              .row
-                | Ilhamdi( 12 111 3479 )
-    .side
-        <a href="" > next bro
-        img(src='images/next.png', width='110', height='150', border='0', alt='14 111 0451')
-        </a>
+	head
+		meta(charset='utf-8')
+		meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+		title TEMPLATE PRESENTASI BESPOKE
+
+		// build:css styles/styles.css
+		//- Check out 'src/bower_components/prism/themes/' for available themes
+		link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
+		link(rel='stylesheet', type='text/css', href='styles/main.css')
+		link(rel='stylesheet', type='text/css', href='styles/style.css')
+		// endbuild
+		link(rel='stylesheet', href='css/bootstrap.min.css')
+		script(src='js/bootstrap.min.js')
+		script(src='js/jquery.min.js')
+		
+	body
+		.container
+			article
+				section
+					h1 Selamat datang di BrainGames
+					table(class='aPer')
+						tr
+							td
+								img(src='img/141110418.jpg', width='110', height='150', border='0', alt='14 111 0418')
+							td 
+								img(src='img/141110451.jpg', width='110', height='150', border='0', alt='14 111 0418')
+						tr
+							td Ivan Fernando (14 111 0451)
+							td Muhammad Rinaldi (14 111 0451)
+						tr
+							td
+								img(src='img/121113479.jpg', width='110', height='150', border='0', alt='14 111 0418')
+							td 
+								img(src='img/121113479.jpg', width='110', height='150', border='0', alt='14 111 0418')
+						tr
+							td Ilhamdi (14 111 0451)
+							td Jeffry Lim (14 111 0451)
+				section
+					h1 Apa itu BrainGames
+					ol
+						h2
+							li asdasd
+						li asdasdadasd
+						li asdasdadasd
+						li asdasdadasd
+						li asdasdadasd
+				
+				section
+					h1 Quis Ketelitian
+					table(class='kuis_n')
+						tr
+							td(colspan=2, class='kuis_n_q')
+								img(src='img/141110418.jpg', width='110', height='150', border='0', alt='14 111 0418')
+								
+					ul
+						h2 
+							li Tebakan Untuk Gambar ini : 
+					
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') asdsad
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') asdsad
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') asdsad
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') asdsad
+					
+					
+					
+			
+			// build:js scripts/scripts.js
+			script(src='bower_components/bespoke.js/dist/bespoke.min.js')
+			script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')
+			script(src='bower_components/bespoke-touch/dist/bespoke-touch.min.js')
+			script(src='bower_components/bespoke-bullets/dist/bespoke-bullets.min.js')
+			script(src='bower_components/bespoke-scale/dist/bespoke-scale.min.js')
+			script(src='bower_components/bespoke-hash/dist/bespoke-hash.min.js')
+			script(src='bower_components/bespoke-progress/dist/bespoke-progress.min.js')
+			script(src='bower_components/bespoke-state/dist/bespoke-state.min.js')
+			script(src='bower_components/bespoke-forms/dist/bespoke-forms.min.js')
+			script(src='bower_components/prism/prism.js')
+			script(src='scripts/main.js')
+			// endbuild
