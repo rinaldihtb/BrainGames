@@ -12,12 +12,15 @@ html
     script(src='js/bootstrap.min.js')
     script(src='js/jquery.min.js')
     style(type='text/css').
-      body{
+      body{margin:0 auto;
       text-align:center;
       background-color:lightgrey;
       }
+      .side{float:right;}
+      .side a:hover {background:url(images/121113479.jpg) no-repeat 0 0; width:110px;}
+      .row{margin:0 auto;}
       .langkah{
-      margin-top:50px;
+      margin-top:0px;
       }
   body
     // build:js scripts/scripts.js
@@ -46,20 +49,21 @@ html
           h2 Anggota
       .langkah
         .row
-          .col-sm-12
-            .col-sm-3
+          .col-sm-12(style='width:800px;margin:0 auto;')
+            .col-sm-3(style='width:50%;float:left')
               .row
-                img(src='img/141110418.jpg', width='110', height='150', border='0', alt='14 111 0418')
+                img(src='', width='110', height='150', border='0', alt='14 111 0418')
                 p
               .row
                 | Ivan Fernando ( 14 111 0418 )
             .col-sm-3
               .row
-                img(src='img/141110451.jpg', width='110', height='150', border='0', alt='14 111 0451')
+                img(src='', width='110', height='150', border='0', alt='14 111 0451')
                 p
               .row
                 | M.Rinaldi Hutabarat ( 14 111 0451 )
-            .col-sm-3
+                
+            .col-sm-3(style='width:50%;float:left')
               .row
                 img(src='', width='110', height='150', border='0', alt='14 111 0027')
                 p
@@ -70,4 +74,8 @@ html
                 img(src='images/121113479.jpg', width='110', height='150', border='0', alt='12 111 3479')
                 p
               .row
-                | Ilhamdi ( 12 111 3479 )
+                | Ilhamdi( 12 111 3479 )
+    .side
+        <a href="" > next bro
+        img(src='images/next.png', width='110', height='150', border='0', alt='14 111 0451')
+        </a>
