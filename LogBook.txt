@@ -24,6 +24,7 @@
  +
  
  +==============================================================================
+
 Tanggal : 23 Mei 2016
 
  +Poin - Poin yang Dikerjakan
@@ -32,6 +33,7 @@ Tanggal : 23 Mei 2016
  +3. Install Node.js
  +4. Install Gulp.Js
  +5. Push ke Repo Global
++==============================================================================
 
 Tanggal : 24 Mei 2016
 
@@ -53,9 +55,9 @@ Tanggal : 24 Mei 2016
  + Ilhamdi
 	- Selesaikan Clone/Pull Repo Global
 	- PuLL dan PUSH LogBook.txt
++==============================================================================
 
 Tanggal : 25 Mei 2016
-
 +Poin-poin yang dikerjakan
  + Ivan Fernando
 	- Melanjutkan Design Halaman awal Slide (index.jade)
@@ -80,9 +82,9 @@ Tanggal : 25 Mei 2016
 	- cari Refrensi Bespoke.JS, tentang slide, keyboard, dll
 	- PULL/PUSH data revisi Bespoke yang baru(menggunakan Grunt server)
 	- PuLL/PUSH LogBook.txt
++==============================================================================
 
 Tanggal : 26 Mei 2016
-
  + Jeffry Lim
 	- pull bespoke revisi
 	- Mengedit file Package.json yang error ketika grunt server dirunning
@@ -103,13 +105,53 @@ Tanggal : 26 Mei 2016
 	- Pull/Push data src yang salah PULL.
 	- sprint slide #2
 	- PuLL/PUSH LogBook.txt
+
  + Ivan Fernando
 	- Pull data index.jade
 	- Menunggu email para anggota untuk mengumpulkan foto
++==============================================================================
 
 Tanggal : 27 Mei 2016
  + Ivan Fernando
 	- Pull dan Push index.jade
 	- Penambahan code pada index.jade
 	- Pull dan Push LogBook.txt
->>>>>>> 65bbdbadd4cf2488f46745c831921ecc4cc9103e
++==============================================================================
+
+Tanggal : 28 Mei 2016
+ + Ivan Fernando
+	- Pull dan Push LogBook.txt
+	- Merapikan LogBook.txt
+	==>
+		- Upload forlder js
+		- Upload folder CSS Bootstrap
+		- Upload folder img
+		- Penambahan pada LogBook.txt
+
++==============================================================================
+
+Tanggal : 29 Mei 2016
+
++==============================================================================
+
+Tanggal : 30 Mei 2016
+
++==============================================================================
+
+Tanggal : 31 Mei 2016
+
++==============================================================================
+
+Tanggal : 1 Juni 2016
+
++==============================================================================
+
+Tanggal : 2 Juni 2016
+
++==============================================================================
+
+Tanggal : 3 Juni 2016
+
++==============================================================================
+
+Tanggal : 4 Juni 2016
