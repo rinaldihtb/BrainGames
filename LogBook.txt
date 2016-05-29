@@ -143,6 +143,7 @@ Tanggal : 29 Mei 2016
 	- Push dan Pull
 	- Menyeleksi dan menambahkan soal quiz
 	- Menambahkan LogBook
+	- Push soal quiz
 
 +==============================================================================
 
