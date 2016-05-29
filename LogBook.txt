@@ -128,9 +128,16 @@ Tanggal : 28 Mei 2016
 		- Upload folder img
 		- Penambahan pada LogBook.txt
 
++ Ilhamdi
+        - Update foto kedalam index.jade
+        - Menambahkan folder image
+        - Merapikan index.jade
+
 +==============================================================================
 
 Tanggal : 29 Mei 2016
++ Ilhamdi
+        - Update dan edit index.jade
 
 +==============================================================================
 
