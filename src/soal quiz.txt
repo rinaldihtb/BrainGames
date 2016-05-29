@@ -1,0 +1,89 @@
+1.	 Ada 8 kotak peti, masing-masing diberi nomor 1 sampai 7. Buah jambu, melon, semangka, jeruk, mangga dan durian akan dimasukkan kedalam peti-peti tersebut dengan aturan sebagai berikut :
+	• Durian harus dimasukkan ke peti nomor 4
+	• Semangka tidak boleh diletakkan tepat disamping melon
+	• Jeruk harus diletakkan disamping mangga
+	Jika melon diletakkan di peti nomor 2, maka mana yang tidak boleh dilakukan ?:
+
+	A. Semangka diletakkan di nomor 3
+	B. Jeruk diletakkan di peti nomor 5
+	C. Mangga diletakkan di peti nomor 7
+	D. Semangka diletakkan di peti nomor 5
+	E. Jambu diletakkan di peti nomor 1
+
+	jwban : a
+
+2.	Jika kamu hanya punya satu korek api, di saat cuaca sangat dingin, kamu masuk ke dalam suatu ruangan ( gelap dan dingin )yang hanya ada sebuah lilin, lampu tempel, petromax, dan kayu bakar, 
+	mana yang seharusnya kamu nyalakan dahulu?
+
+	jwban : kayu bakar
+
+3.	Seekor siput ada di dasar sumur dan sangat ingin keluar dari sumur tersebut. 
+	dia memutuskan untuk memanjat tembok sumur tersebut. setiap hari di mampu 
+	memanjat setinggi 3 kaki, tapi pada malamnya dia harus istirahat 
+	( setelah memanjat sepanjang hari) dan dia turun kembali 2 kaki.
+	Jika kedalaman sumur 30 kaki, berapa hari yang diperlukan siput untuk keluar dari sumur tersebut ?
+
+	jwban : 30 hari
+
+4.	Hitung dengan cermat!
+	Catatan: kerjakan di pikiran anda saja. JANGAN gunakan kertas atau pensil atau kalkulator. Cobalah.
+	Ambil 1000 dan tambahkan 40 padanya.
+	Sekarang tambahkan 1000 lagi.
+	Sekarang tambahkan 30 . !
+	Tambahkan 1000 lagi .
+	Sekarang tambahkan 20.
+	Sekarang tambahkan 1000
+	Sekarang tambahkan 10.
+
+	jwaban : 4100
+
+5.	Petunjuk soal :
+	Anda Bandingkan susunan huruf/angka/kata pada masing-masing soal yang diberikan. Kemudian, Jawab dengan huruf S bila susunan hutuf/angka/kata yang ada di depan sama dengan yang ada di belakangnya. Dan isilah T bila huruf/angka/kata tidak sama anatara yang di depan dengan yang dibelakangnya.
+	Kerjakan secepat mungkin dan dengan teliti ( Untuk awal belajar, cobalah untuk mengerjakan dengan tempo sedang. Jangan terlalu cepat ). Waktu yang diberikan hanya 8 menit. Bila waktu yang diberikan sudah berakhir segeralah berhenti mengerjakannya. Selanjutnya lihat hasilnya pada kunci jawaban. Dan anda akan mengetahui hasilnya serta jawaban yang salah dan yang benar.
+
+	Berikut adalah soal-soalnya:
+
+	1.	Lowongan --- Lowomgan
+	2.	TSHPS --- TSHPS
+	3.	1234 ---1234
+	4.	7353774 --- 7383774
+	5.	Locasalen --- Locasalen
+	6.	110011 --- 111001
+	7.	SWAMP --- SWAMP
+	8.	MLTHTS --- MTHSST
+	9.	Probolinggo --- Probolinggo
+	10.	98758 --- 98758
+	11.	INTLX --- INTLE
+	12.	THTSTQ --- THTSTQ
+	13.	Yandi Suharto --- Yandi Suharto
+	14.	69877 --- 69787
+	15.	97054 --- 97054
+
+	jwban : 
+	1.	T
+	2.	S
+	3.	S
+	4.	T
+	5.	S
+	6.	T
+	7.	S
+	8.	T
+	9.	S
+	10.	S
+	11.	T
+	12.	S
+	13.	S
+	14.	T
+	15.	S
+
+6. 	Hewan apa yang namanya hanya terdiri dari satu huruf?
+	- I-kan
+	- G-ajah
+ 
+7.	Hewan apa yang namanya terdiri dari dua huruf?
+	- U dan G
+	- P and A
+
+8.	Kalau dimasukkin malah keluar, apakah itu?
+	-Kancing baju
+
