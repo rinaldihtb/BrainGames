@@ -139,6 +139,12 @@ Tanggal : 29 Mei 2016
 + Ilhamdi
         - Update dan edit index.jade
 
++ Ivan Fernando
+	- Push dan Pull
+	- Menyeleksi dan menambahkan soal quiz
+	- Menambahkan LogBook
+	- Push soal quiz
+
 +==============================================================================
 
 Tanggal : 30 Mei 2016
