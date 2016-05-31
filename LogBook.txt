@@ -160,7 +160,11 @@ Tanggal : 30 Mei 2016
 +==============================================================================
 
 Tanggal : 31 Mei 2016
-
++ Jeffry
+	- Push dan pull
+	- Mengupdate LogBook
+	- Menambahkan materi soal quiz
+	- Mengupdate dan menambahkan soal quiz pada index.jade
 +==============================================================================
 
 Tanggal : 1 Juni 2016
