@@ -155,7 +155,10 @@ Tanggal : 30 Mei 2016
 	- Push dan pull
 	- Mengupdate LogBook
 	- Menambahkan foto profil ke dalam index.jade
-	- Mengupdate dan menambahkan soal quiz pada index.jade       
+	- Mengupdate dan menambahkan soal quiz pada index.jade  
+
++ Ivan Fernando
+	- Pull Logbook
 
 +==============================================================================
 
@@ -165,6 +168,10 @@ Tanggal : 31 Mei 2016
 	- Mengupdate LogBook
 	- Menambahkan materi soal quiz
 	- Mengupdate dan menambahkan soal quiz pada index.jade
+
++ Ivan Fernando
+	- Push dan Pull
+	- Menginstall Grunt dan mencoba untuk menaruh soal quiz
 +==============================================================================
 
 Tanggal : 1 Juni 2016
