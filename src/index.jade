@@ -263,6 +263,14 @@ html
 						h3
 							li Sebelum dimasukin, dibasahi terlebih dahulu. Apakah itu?			
 			
+			div(id='statusB', class='gaktampil') 
+				p
+					span(onclick='tutup_status(1)') Jawaban Anda Benar !!!	
+			div(id='statusS', class='gaktampil')
+				p
+					span(onclick='tutup_status(0)') Jawaban Anda Salah !!!	
+				
+			
 			// build:js scripts/scripts.js
 			script(src='bower_components/bespoke.js/dist/bespoke.min.js')
 			script(src='bower_components/bespoke-keys/dist/bespoke-keys.min.js')

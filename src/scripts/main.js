@@ -11,8 +11,28 @@ bespoke.from('article', {
 
 function cek_kebenaran(n) 
 {
-	if (n==1)
-		alert('Benar');
-	else
-		alert('Salah');
+	if (n==1) {
+		//alert('Benar');
+		var data = document.getElementById('statusB');
+		data.className='tampil'
+		//data.innerHTML = "Benar";
+	}
+	else 
+	{
+		var data = document.getElementById('statusS');
+		data.className='tampil'
+	}
+		//alert('Salah');
+}
+
+function tutup_status(n)
+{
+	//alert(0);
+	if(n==1) {
+		var data = document.getElementById('statusB');
+		data.className='gaktampil'
+	} else if(n==0) {
+		var data = document.getElementById('statusS');
+		data.className='gaktampil'
+	}
 }
