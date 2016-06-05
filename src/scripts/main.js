@@ -14,13 +14,13 @@ function cek_kebenaran(n)
 	if (n==1) {
 		//alert('Benar');
 		var data = document.getElementById('statusB');
-		data.className='tampil'
+		data.className='tampil benar'
 		//data.innerHTML = "Benar";
 	}
 	else 
 	{
 		var data = document.getElementById('statusS');
-		data.className='tampil'
+		data.className='tampil salah'
 	}
 		//alert('Salah');
 }
@@ -30,9 +30,9 @@ function tutup_status(n)
 	//alert(0);
 	if(n==1) {
 		var data = document.getElementById('statusB');
-		data.className='gaktampil'
+		data.className='gaktampil benar'
 	} else if(n==0) {
 		var data = document.getElementById('statusS');
-		data.className='gaktampil'
+		data.className='gaktampil salah'
 	}
 }

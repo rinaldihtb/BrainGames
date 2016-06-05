@@ -138,12 +138,13 @@ Tanggal : 28 Mei 2016
 Tanggal : 29 Mei 2016
 + Ilhamdi
         - Update dan edit index.jade
-
 + Ivan Fernando
 	- Push dan Pull
 	- Menyeleksi dan menambahkan soal quiz
 	- Menambahkan LogBook
 	- Push soal quiz
++ Ilhamdi
+        - Update dan edit index.jade
 
 +==============================================================================
 
@@ -159,7 +160,10 @@ Tanggal : 30 Mei 2016
 
 + Ivan Fernando
 	- Pull Logbook
-
++ Muhammad Rinaldi
+	- Pull/Push Logbook
+        - Push Edit Design CSS
+	- Push Penambahan Kode Validasi Javascript
 +==============================================================================
 
 Tanggal : 31 Mei 2016
@@ -186,4 +190,9 @@ Tanggal : 3 Juni 2016
 
 +==============================================================================
 
-Tanggal : 4 Juni 2016
+Tanggal : 5 Juni 2016
++ Muhammad Rinaldi
+	- Pull/Push Logbook
+        - Push Edit Design CSS (style.styl)
+	- Push Penambahan Kode Validasi Javascript (main.js).
+	- Edit Soal Quis dan Memperbaharuinya (index.jade).

@@ -64,9 +64,11 @@ html
 							li Tebakan Untuk Gambar ini : Kearah mana gadis ini berputar ?
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Kiri
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Kiri dan Kanan
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Kanan
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Hanya Kiri
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Hanya Kanan
 
 				section
 					h1 Quis Ketelitian
@@ -84,7 +86,10 @@ html
 						h4
 							li Jawabannya
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Benar
+				
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Salah
 				
 				section
 					h1 Quis Ketelitian
@@ -97,9 +102,10 @@ html
 							li Locasalen --- Locasalen
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') S
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Benar
+				
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Salah
 
 				section
 					h1 Quis Ketelitian
@@ -112,9 +118,10 @@ html
 							li 69877 --- 69787
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') S
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Benar
+				
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T		
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Salah		
 					
 				section
 					h1 Quis Ketelitian
@@ -127,9 +134,10 @@ html
 							li MLTHTS --- MTHSST
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') S
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Benar
+				
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T	
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Salah	
 				
 				section
 					h1 Quis Ketelitian
@@ -142,9 +150,10 @@ html
 							li 110011 --- 111001
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') S
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Benar
+				
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Salah
 
 				section
 					h1 Quis Ketelitian
@@ -157,9 +166,10 @@ html
 							li THTSTQ --- THTSTQ
 					
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') S
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Benar
+				
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') T
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Salah
 
 				section
 					h2 Quis Kecepatan
@@ -179,13 +189,13 @@ html
 						li
 							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Semangka diletakkan di nomor 3
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Jeruk diletakkan di peti nomor 5
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Jeruk diletakkan di peti nomor 5
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Mangga diletakkan di peti nomor 7
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Mangga diletakkan di peti nomor 7
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Semangka diletakkan di peti nomor 5
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Semangka diletakkan di peti nomor 5
 						li
-							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Jambu diletakkan di peti nomor 1
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Jambu diletakkan di peti nomor 1
 
 				section
 					h1 Quis Kecepatan
@@ -195,7 +205,19 @@ html
 							li Jawablah dengan seksama!
 
 						h3
-							li Jika kamu hanya punya satu korek api, di saat cuaca sangat dingin, kamu masuk ke dalam suatu ruangan (gelap dan dingin) yang hanya ada sebuah lilin, lampu tempel, petromax, dan kayu bakar, mana yang seharusnya kamu nyalakan dahulu?								
+							li Jika kamu hanya punya satu korek api, di saat cuaca sangat dingin, kamu masuk ke dalam suatu ruangan (gelap dan dingin) yang hanya ada sebuah lilin, lampu tempel, petromax, dan kayu bakar, mana yang seharusnya kamu nyalakan dahulu?
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Lilin
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Korek Api
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Lampu Tempel
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') Petromax
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') Kayu Bakar
+							
+						
 				section
 					h1 Quis Kecepatan
 							
@@ -205,15 +227,25 @@ html
 
 						h3
 							li Seekor siput ada di dasar sumur dan sangat ingin keluar dari sumur tersebut. Dia memutuskan untuk memanjat tembok sumur tersebut. Setiap hari dia mampu memanjat setinggi 3 kaki, tapi pada malamnya dia harus istirahat (setelah memanjat sepanjang hari dan dia turun kembali 2 kaki. Jika kedalaman sumur 30 kaki, berapa hari yang diperlukan siput untuk keluar dari sumur tersebut?
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 1 Hari
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 5 Hari
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 10 Hari
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 15 Hari
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') 30 Hari
 
 				section
 					h1 Quis Kecepatan
 							
 					ul
-						h2 
+						h3 
 							li Hitunglah dengan cermat!
 
-						h3
+						h5
 							li Ambil 1000 dan tambahkan 40 padanya!
 							li Sekarang tambahkan 1000 lagi!
 							li Sekarang tambahkan 30!
@@ -222,6 +254,16 @@ html
 							li Sekarang tambahkan 1000!
 							li Sekarang tambahkan 10!
 							li Berapakah jumlah nilai sekarang?
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 5000
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 4010
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(1)') 4100
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 4001
+						li
+							a(class='answer', src='javascript:void(0)', onclick='cek_kebenaran(0)') 4090
 
 				section
 					h1 Quis Ingatan
@@ -232,6 +274,9 @@ html
 
 						h3
 							li Hewan apa yang namanya hanya terdiri dari satu huruf?
+						h2
+							li I-kan
+							li G-Ajah
 
 				section
 					h1 Quis Ingatan
@@ -242,6 +287,9 @@ html
 
 						h3
 							li Hewan apa yang namanya terdiri dari dua huruf?
+						h2
+							li U dan G
+							li P and A
 
 				section
 					h1 Quis Ingatan
@@ -252,6 +300,8 @@ html
 
 						h3
 							li Kalau dimasukkin malah keluar, apakah itu?
+						h2
+							li Kancing baju
 
 				section
 					h1 Quis Ingatan
@@ -261,12 +311,20 @@ html
 							li Jawablah dengan cermat!
 
 						h3
-							li Sebelum dimasukin, dibasahi terlebih dahulu. Apakah itu?			
+							li Sebelum dimasukin, dibasahi terlebih dahulu. Apakah itu?		
+						h2
+							li Benang jarum
+				section
+					h1 Terima Kasih
+							
+					ul
+						h2 
+							li Karena Telah Membuang waktu 5 menit berharga anda.
 			
-			div(id='statusB', class='gaktampil') 
+			div(id='statusB', class='gaktampil benar') 
 				p
 					span(onclick='tutup_status(1)') Jawaban Anda Benar !!!	
-			div(id='statusS', class='gaktampil')
+			div(id='statusS', class='gaktampil salah')
 				p
 					span(onclick='tutup_status(0)') Jawaban Anda Salah !!!	
 				
