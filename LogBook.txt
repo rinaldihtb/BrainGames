@@ -175,15 +175,32 @@ Tanggal : 31 Mei 2016
 +==============================================================================
 
 Tanggal : 1 Juni 2016
++ Ivan Fernando
+	- Pull
+	- Menyiapkan burndown chart
 
 +==============================================================================
 
 Tanggal : 2 Juni 2016
++ Ivan Fernando
+	- Pull
 
 +==============================================================================
 
 Tanggal : 3 Juni 2016
++ Ivan Fernando
+	- Pull
 
 +==============================================================================
 
 Tanggal : 4 Juni 2016
++ Ivan Fernando
+	- Pull
+	- Menyelesaikan burndown chart
+
++==============================================================================
+
+Tanggal : 5 Juni 2016
++ Ivan Fernando
+	- Pull
+	- Push Burndown chart

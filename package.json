@@ -1,6 +1,6 @@
 {
-  "name": "TKPPLTEMPLATE",
-  "version": "0.0.0",
+  "name": "braingames",
+  "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -23,5 +23,20 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "description": "> Cara pakai Gruntfile.js, karena pada saat pakai gulp ada masalah yang tidak dapat ketemu solusinya.\r >Ketikan Perintah ini :\r >1. `$ npm install -g bower`\r >2. `$ npm install -g grunt-cli`\r >3. `$ npm install && bower install`\r >4. `$ grunt server`",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinaldihtb/BrainGames.git"
+  },
+  "author": "Ivan Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinaldihtb/BrainGames/issues"
+  },
+  "homepage": "https://github.com/rinaldihtb/BrainGames#readme"
 }
