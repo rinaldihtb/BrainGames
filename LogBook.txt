@@ -105,17 +105,20 @@ Tanggal : 26 Mei 2016
 	- Pull/Push data src yang salah PULL.
 	- sprint slide #2
 	- PuLL/PUSH LogBook.txt
-
- + Ivan Fernando
++ Ivan Fernando
 	- Pull data index.jade
 	- Menunggu email para anggota untuk mengumpulkan foto
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 27 Mei 2016
- + Ivan Fernando
++ Ivan Fernando
 	- Pull dan Push index.jade
 	- Penambahan code pada index.jade
 	- Pull dan Push LogBook.txt
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 28 Mei 2016
@@ -132,7 +135,8 @@ Tanggal : 28 Mei 2016
         - Update foto kedalam index.jade
         - Menambahkan folder image
         - Merapikan index.jade
-
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 29 Mei 2016
@@ -145,7 +149,8 @@ Tanggal : 29 Mei 2016
 	- Push soal quiz
 + Ilhamdi
         - Update dan edit index.jade
-
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 30 Mei 2016
@@ -176,23 +181,48 @@ Tanggal : 31 Mei 2016
 + Ivan Fernando
 	- Push dan Pull
 	- Menginstall Grunt dan mencoba untuk menaruh soal quiz
++ Muhammad Rinaldi
+	- Pull/Push Logbook
 +==============================================================================
 
 Tanggal : 1 Juni 2016
-
++ Ivan Fernando
+	- Pull
+	- Menyiapkan burndown chart
++ Muhammad Rinaldi
+	- Pull/Push Logbook
 +==============================================================================
 
 Tanggal : 2 Juni 2016
-
++ Ivan Fernando
+	- Pull
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 3 Juni 2016
++ Ivan Fernando
+	- Pull
++ Muhammad Rinaldi
+	- Pull Logbook
++==============================================================================
 
+Tanggal : 4 Juni 2016
++ Ivan Fernando
+	- Pull
+	- Menyelesaikan burndown chart
++ Muhammad Rinaldi
+	- Pull Logbook
 +==============================================================================
 
 Tanggal : 5 Juni 2016
+<<<<<<< HEAD
 + Muhammad Rinaldi
 	- Pull/Push Logbook
         - Push Edit Design CSS (style.styl)
 	- Push Penambahan Kode Validasi Javascript (main.js).
 	- Edit Soal Quis dan Memperbaharuinya (index.jade).
+
++ Ivan Fernando
+	- Pull
+	- Push Burndown chart
